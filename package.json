@@ -1,0 +1,17 @@
+{
+  "name": "risky-api-demo",
+  "version": "1.0.0",
+  "description": "Simulated vulnerable student repo with hardcoded API keys for secret scanner testing",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "demo",
+    "secret-scanning",
+    "vulnerability-testing",
+    "security"
+  ],
+  "author": "shivamjha76",
+  "license": "MIT"
+}
